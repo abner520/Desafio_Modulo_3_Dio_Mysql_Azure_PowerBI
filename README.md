@@ -1,6 +1,6 @@
 # Desafio do Modulo 3, Bootcamp 2023 Dio Simplificando Dados de Mysql do Azure com PowerBI
 
-Para esse desafio foi criado um Banco de Dados Mysql no Microsoft Azure, inserimos os dados ao Banco de Dados pelo Cloud Shell Bash da Azure, uma vez inserida as tabelas e Dados correspondentes, conectamos o nosso Banco ao Power BI, uma vez conectado procedimos a realizar a limpeza e transformação dos Dados, foi realizado os siguientes pontos:
+Para esse desafio foi criado um Banco de Dados Mysql no Microsoft Azure, inserimos os dados ao Banco de Dados pelo Cloud Shell Bash da Azure, uma vez inserida as tabelas e Dados correspondentes, conectamos o nosso Banco ao Power BI, uma vez conectados procedimos a realizar a limpeza e transformação dos Dados, foi realizado os siguientes pontos:
 
 - Verificamos Cabeçalhos dos Dados,
 - Modificação de Valores Monetarios,
